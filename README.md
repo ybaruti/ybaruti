@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yah'hymbey Baruti Ali-Bey
-  I'm currently an undergrad computer science student;
+- I'm currently an undergrad computer science student.
 - 👀 I’m interested in databases and backend development.
 - 🌱 I’m currently learning databases.
 
