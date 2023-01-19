@@ -1,4 +1,4 @@
-<img src="https://github.com/ybaruti/images/blob/main/images/BlackTechnologyLinkedInBanner.png?raw=true">
+<img src="https://github.com/ybaruti/images/blob/main/BlackTechnologyLinkedInBanner.png?raw=true">
 I'm currently an undergrad computer science student that is interested databases, backend and fronted development. My prefer lanaguages are Javascript, Typescript, Python, ReactJS. I am an avid learner trying to constantly further my knowledge of the field. I am currently learning the Agile Methodology while working with some fellow members in my class to make a clone of the New York Times Spelling Bee.
 
 # How to contact me
